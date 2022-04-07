@@ -1,14 +1,14 @@
 # mustafa-gundogdu-homework-5
 
-*BackgroundWorker oluþturulacak. https://jsonplaceholder.typicode.com/posts bu linketeki her bir dakikada çalýþýp bu bilgileri çekip veri tabanýna kayýt eden bir repository oluþturulacak.
-https://drive.google.com/file*/d/17OUbFAua2kTngQLO7FGY-kxwvXLxnDEZ/view?usp=sharing bunun üstüne oluþturabilirsin. Post diye tablo oluþturulacak migration ile user, id, title, body postun kolonlarý olacak.
+*BackgroundWorker oluï¿½turulacak. https://jsonplaceholder.typicode.com/posts bu linketeki her bir dakikada ï¿½alï¿½ï¿½ï¿½p bu bilgileri ï¿½ekip veri tabanï¿½na kayï¿½t eden bir repository oluï¿½turulacak.
+Post diye tablo oluï¿½turulacak migration ile user, id, title, body postun kolonlarï¿½ olacak.
 
 #Steps
-* 1-> First.App.Domain katmanýnda Post class'ý oluþturulup BaseEntity den miras aldýk 
-* 2-> First.App.EntityFramework katmanýnda configurations klasöründe PostConfiguration oluþturuldu ve appDbContext e dbset eklendi.
-* 3-> First.App.Business katmanýnda Post iþlemleri yapacak olan interface ve service classý oluþturuldu
-* 4-> Kuyruk yapýsý için First.App.Business katmanýnda IBackgroundQueue ve BackgroundQueue eklendi ve kuyruk yapýsý generic olarak oluþturuldu
-* 5-> PostAPI oluþturuldu ve Background klasörü oluþturuldu
-* 6-> Öncelikle her 60 saniyede bir çalýþacak PostBackgroundCallWorker oluþturuldu bu sýnýfta gelen postlar kuyruða eklendi
-* 7-> Kuyruktaki verileri database e eklemek için ise PostBackgroundSaveWorker oluþturuldu kuyruktan FIFO mantýðý ile sýrayla ekleme iþlemi yapýldý
-* 8-> PostController ile veritabanýndaki postlarý görüntüleme iþlemleri yapýldý...
+* 1-> First.App.Domain katmanï¿½nda Post class'ï¿½ oluï¿½turulup BaseEntity den miras aldï¿½k 
+* 2-> First.App.EntityFramework katmanï¿½nda configurations klasï¿½rï¿½nde PostConfiguration oluï¿½turuldu ve appDbContext e dbset eklendi.
+* 3-> First.App.Business katmanï¿½nda Post iï¿½lemleri yapacak olan interface ve service classï¿½ oluï¿½turuldu
+* 4-> Kuyruk yapï¿½sï¿½ iï¿½in First.App.Business katmanï¿½nda IBackgroundQueue ve BackgroundQueue eklendi ve kuyruk yapï¿½sï¿½ generic olarak oluï¿½turuldu
+* 5-> PostAPI oluï¿½turuldu ve Background klasï¿½rï¿½ oluï¿½turuldu
+* 6-> ï¿½ncelikle her 60 saniyede bir ï¿½alï¿½ï¿½acak PostBackgroundCallWorker oluï¿½turuldu bu sï¿½nï¿½fta gelen postlar kuyruï¿½a eklendi
+* 7-> Kuyruktaki verileri database e eklemek iï¿½in ise PostBackgroundSaveWorker oluï¿½turuldu kuyruktan FIFO mantï¿½ï¿½ï¿½ ile sï¿½rayla ekleme iï¿½lemi yapï¿½ldï¿½
+* 8-> PostController ile veritabanï¿½ndaki postlarï¿½ gï¿½rï¿½ntï¿½leme iï¿½lemleri yapï¿½ldï¿½...

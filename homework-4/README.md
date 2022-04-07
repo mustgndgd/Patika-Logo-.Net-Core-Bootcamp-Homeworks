@@ -3,11 +3,10 @@ mustafa-gundogdu-homework-4
 
 Homework four
 
-* Ýlerlediðimiz projede yazdýðýmýz CompanyService için sadece add ve get iþlemi yapmýþtýk. Delete ve Update methodlarýný implement edip apii de bunlarý kullanmalarýný bekliyorum. Proje linkte ulaþabilirsiniz.
+* ï¿½lerlediï¿½imiz projede yazdï¿½ï¿½ï¿½mï¿½z CompanyService iï¿½in sadece add ve get iï¿½lemi yapmï¿½ï¿½tï¿½k. Delete ve Update methodlarï¿½nï¿½ implement edip apii de bunlarï¿½ kullanmalarï¿½nï¿½ bekliyorum. Proje linkte ulaï¿½abilirsiniz.
+ 
 
-https://drive.google.com/file/d/1Pc-3Fa_MjG3SLuO7YhwxJfFTbKO_IMrY/view?usp=drivesdk ,
+* ï¿½deve artï¿½ 1 puan bonus
 
-* Ödeve artý 1 puan bonus
-
-Jwt token örneðindeki user ve password bilgilerini db çekecek þekilde UserService yazýlmasý
+Jwt token ï¿½rneï¿½indeki user ve password bilgilerini db ï¿½ekecek ï¿½ekilde UserService yazï¿½lmasï¿½
 
