@@ -1,0 +1,60 @@
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.deps.json
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.dll
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.pdb
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.csproj.AssemblyReference.cache
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.AssemblyInfoInputs.cache
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.AssemblyInfo.cs
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.csproj.CoreCompileInputs.cache
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.dll
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.pdb
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.dll
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.pdb
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+C:\Users\skayikci\source\repos\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.csproj.CopyComplete
+C:\Users\samet\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.deps.json
+C:\Users\samet\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.dll
+C:\Users\samet\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.pdb
+C:\Users\samet\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.dll
+C:\Users\samet\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+C:\Users\samet\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.pdb
+C:\Users\samet\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+C:\Users\samet\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.AssemblyInfo.cs
+C:\Users\samet\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.csproj.CopyComplete
+C:\Users\samet\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.dll
+C:\Users\samet\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.deps.json
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.csproj.AssemblyReference.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.AssemblyInfoInputs.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.AssemblyInfo.cs
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.csproj.CoreCompileInputs.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.csproj.CopyComplete
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.pdb
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.deps.json
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.pdb
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.pdb
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.AssemblyInfo.cs
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.csproj.CopyComplete
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\First.App.DataAccess.EntityFramework.Repository\obj\Debug\netcoreapp3.1\First.App.DataAccess.EntityFramework.Repository.pdb

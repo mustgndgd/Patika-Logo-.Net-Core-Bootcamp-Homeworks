@@ -1,0 +1,56 @@
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\bin\Debug\net5.0\appsettings.json
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\bin\Debug\net5.0\BackgroundQueue.API.exe
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\bin\Debug\net5.0\BackgroundQueue.API.deps.json
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\bin\Debug\net5.0\BackgroundQueue.API.runtimeconfig.json
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\bin\Debug\net5.0\BackgroundQueue.API.runtimeconfig.dev.json
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\bin\Debug\net5.0\BackgroundQueue.API.dll
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\bin\Debug\net5.0\BackgroundQueue.API.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.csproj.AssemblyReference.cache
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.AssemblyInfoInputs.cache
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.AssemblyInfo.cs
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.csproj.CoreCompileInputs.cache
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\obj\Debug\net5.0\scopedcss\bundle\BackgroundQueue.API.styles.css
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\obj\Debug\net5.0\staticwebassets\BackgroundQueue.API.StaticWebAssets.Manifest.cache
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.RazorTargetAssemblyInfo.cache
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.csproj.CopyComplete
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.dll
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\obj\Debug\net5.0\refint\BackgroundQueue.API.dll
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.genruntimeconfig.cache
+C:\Users\HP GAMİNG\Desktop\First.App\BackgroundQueue.API\obj\Debug\net5.0\ref\BackgroundQueue.API.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\bin\Debug\net5.0\appsettings.Development.json
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\bin\Debug\net5.0\appsettings.json
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\bin\Debug\net5.0\BackgroundQueue.API.exe
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\bin\Debug\net5.0\BackgroundQueue.API.deps.json
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\bin\Debug\net5.0\BackgroundQueue.API.runtimeconfig.json
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\bin\Debug\net5.0\BackgroundQueue.API.runtimeconfig.dev.json
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\bin\Debug\net5.0\BackgroundQueue.API.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\bin\Debug\net5.0\BackgroundQueue.API.pdb
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.AssemblyInfo.cs
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.MvcApplicationPartsAssemblyInfo.cs
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.MvcApplicationPartsAssemblyInfo.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\obj\Debug\net5.0\scopedcss\bundle\BackgroundQueue.API.styles.css
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\obj\Debug\net5.0\staticwebassets\BackgroundQueue.API.StaticWebAssets.Manifest.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.RazorTargetAssemblyInfo.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.csproj.CopyComplete
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\obj\Debug\net5.0\refint\BackgroundQueue.API.dll
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.pdb
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\obj\Debug\net5.0\BackgroundQueue.API.genruntimeconfig.cache
+\\Mac\Home\Desktop\windows_folders\homework5\mustafa-gundogdu-homework-5\First.App\First.App\BackgroundQueue.API\obj\Debug\net5.0\ref\BackgroundQueue.API.dll
